@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/mckessen/node_modules
+/WebAPI/.vs/WebAPI
+/WebAPI/AppTests/bin/Debug/net8.0
+/WebAPI/AppTests/obj
+/WebAPI/WebApplication/bin/Debug/net8.0
+/WebAPI/WebApplication/obj
